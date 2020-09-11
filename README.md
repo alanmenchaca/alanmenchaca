@@ -1,5 +1,7 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanmenchaca&hide=stars&show_icons=true))](https://github.com/anuraghazra/github-readme-stats)
+### Hi there, I am Alan Menchaca 👋
+
+![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanmenchaca&show_icons=true&hide=issues&include_all_commits=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmenchaca&theme=prussian)
 
 <!--
 **alanmenchaca/alanmenchaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
