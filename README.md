@@ -1,10 +1,9 @@
 ### Hi there, I am Alan Menchaca 👋
-<!--![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanmenchaca&show_icons=true&hide=issues&include_all_commits=true&theme=prussian)-->
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif" width="700" height="350"/>
+
+![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanmenchaca&show_icons=true&hide=issues&include_all_commits=true&theme=prussian)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmenchaca&theme=prussian&layout=compact)
-
-
-![](https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif)
 
 <!--
 **alanmenchaca/alanmenchaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
