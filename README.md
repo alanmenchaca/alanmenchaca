@@ -1,9 +1,9 @@
 ### Hi there, I am Alan Menchaca
 <p align="center">
-  <img width="900" height="330" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/223e6792880429.5e569ff84ebef.gif">
+  <img src="https://64.media.tumblr.com/24a03fcdefa2f89bdf4c7d1d4dd7d148/tumblr_n2eqmrxwvx1qza1qzo1_400.gifv">
 </p>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanmenchaca&show_icons=true&hide=issues&include_all_commits=true&theme=prussian" alt="Alan Menchaca's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmenchaca&theme=prussian&layout=compact" width="450" height="200"/></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanmenchaca&show_icons=true&hide=issues&include_all_commits=true&theme=prussian" alt="Alan Menchaca's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmenchaca&theme=prussian&layout=compact" width="430" height="200"/></a> |
 | ------------- | ------------- |
 
 
