@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <img width="46%" src="http://github-readme-streak-stats.herokuapp.com?user=alanmenchaca&theme=tokyonight"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmenchaca&theme=tokyonight&layout=compact"/>
+  <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=alanmenchaca&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmenchaca&theme=tokyonight&layout=compact"/>
 </p>
 
 
